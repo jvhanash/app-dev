@@ -1,2 +1,6 @@
 # app-dev
 My first repository
+**My favorite series are:**
+1. A Tale of Thousand Stars - *A Tale of Thousand Stars is a Thai BL drama that explores what you would do with a precious second chance in life. After a death-defying experience, the main character makes dramatic changes to transform his lifestyle. In his journey of self-discovery, he also finds a sweet romance with an unlikely love interest.*
+2. Bad Buddy - *Bad Buddy is a Thai BL series about two university students with an intense rivalry. The main characters are neighbors whose families have feuded for many decades. Their friends from the engineering and architecture departments are also involved in an irreconcilable dispute. Despite the hostility around them, these enemies find themselves growing closer instead of antagonizing each other.*
+3. My School President - *My School President is a Thai BL series about an enchanting teenage love story. The protagonist is an aspiring musician who forms a high school band with his friends. He clashes with the student council president, who threatens to cancel their extracurricular activities. Despite initial hostility, the relationship takes a friendlier turn. Beneath his bravado, the president may not be as intimidating as he seems.*
